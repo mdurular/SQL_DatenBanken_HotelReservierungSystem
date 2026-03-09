@@ -1,5 +1,5 @@
 # 🏨 Hotel-Reservierungssystem
-### SQL Abschlussprojekt | Dozent: Lev A. Brodski | März 2026
+### SQL Abschlussprojekt | März 2026
 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-005C84?style=for-the-badge&logo=databricks&logoColor=white)
