@@ -77,37 +77,6 @@ Die gesamte Business Logik wurde mittels T-SQL Objekten direkt in der Datenbanks
 
 ---
 
-## 🗂️ Ordnerstruktur
-
-```
-HotelReservierungSystem/
-├── 001-DB-Create-Scripts/
-│   ├── 00_Cleanup.sql
-│   ├── 01_Datenbank_Erstellen.sql
-│   └── 02_Tabellen_Index_Constraints.sql
-├── 002-Abfragen und View/
-│   ├── 04_Views.sql
-│   └── 05_Views_Test.sql
-├── 003-StoredFunctions/
-│   ├── 06_Funktionen.sql
-│   └── 07_Funktionen_Test.sql
-├── 004-StoredProcedures/
-│   ├── 08_Prozedur.sql
-│   └── 09_Prozedur_Test.sql
-├── 005-DML-Trigger/
-│   ├── 10_Trigger.sql
-│   ├── 11_Trigger_Test.sql
-│   └── 12_Cursor.sql
-├── 005-LOGN-USER-ROLE/
-│   └── 13_Benutzer_Rechte.sql
-├── 006-BackUp/
-│   └── HotelReservierung.bak
-├── 007-Datenimport/
-│   └── 03_Testdaten_Einfuegen.sql
-├── 14_Abschluss.sql
-└── README.md
-```
-
 ---
 
 ## 🛠️ Voraussetzungen
